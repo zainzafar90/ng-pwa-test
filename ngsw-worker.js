@@ -2178,7 +2178,7 @@ class Driver {
      * Retrieve a copy of the latest manifest from the server.
      */
     async fetchLatestManifest() {
-        const res = await this.safeFetch(this.adapter.newRequest('ngsw.json?ngsw-cache-bust=' + Math.random()));
+        const res = await this.safeFetch(this.adapter.newRequest('https://zainzafar90.github.io/ng-pwa-test/ngsw.json?ngsw-cache-bust=' + Math.random()));
         if (!res.ok) {
             if (res.status === 404) {
                 await this.deleteAllCaches();

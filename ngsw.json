@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://zainzafar90.github.io/ng-pwa-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://zainzafar90.github.io/ng-pwa-test/favicon.ico",
+        "https://zainzafar90.github.io/ng-pwa-test/index.html",
+        "https://zainzafar90.github.io/ng-pwa-test/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://zainzafar90.github.io/ng-pwa-test/main.2b08a55b2c93143d731d.bundle.js",
+        "https://zainzafar90.github.io/ng-pwa-test/polyfills.77d59861e39435768676.bundle.js",
+        "https://zainzafar90.github.io/ng-pwa-test/styles.ac89bfdd6de82636b768.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://zainzafar90.github.io/ng-pwa-test/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://zainzafar90.github.io/ng-pwa-test/main.2b08a55b2c93143d731d.bundle.js": "63323ad85dfa023232a18be5f5f57ec1f986cb60",
+    "https://zainzafar90.github.io/ng-pwa-test/polyfills.77d59861e39435768676.bundle.js": "beb3f7129447fb464639e25447ceb200fa2ba87e",
+    "https://zainzafar90.github.io/ng-pwa-test/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://zainzafar90.github.io/ng-pwa-test/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://zainzafar90.github.io/ng-pwa-test/index.html": "86d799d886b6a742d63f54e75f05568498ef0c8f"
+  }
+}
